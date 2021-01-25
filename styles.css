@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+.brand-logo {
+    margin-left: 12px !important;
+}
+.container-note {
+    padding: 18px 20px;
+}
